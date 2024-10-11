@@ -2,7 +2,7 @@
 title: Does weather have a major affect on rideshare trip counts?
 date: 2024-09-16 13:46:00
 categories: [Data Analysis]
-tags: [python]     # TAG names should always be lowercase
+tags: [python, machine learning]     # TAG names should always be lowercase
 ---
 
 People using rideshare apps, like Uber or Lyft, has increased so much in the past several years. Our data, [provided by the City of New York](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page), show that High Volume For-Hire Vehicle (HVFHV) trips numbered over twenty million just for the month of June 2024! And HVFHV trips only cover larger companies, and exclude many more local and smaller rideshare services.
